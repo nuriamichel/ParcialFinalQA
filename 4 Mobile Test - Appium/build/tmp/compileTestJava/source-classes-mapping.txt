@@ -1,0 +1,42 @@
+activities/contactManager/AddContactScreen.java
+ activities.contactManager.AddContactScreen
+sesion/Session.java
+ sesion.Session
+activities/calculadora/MainScreen.java
+ activities.calculadora.MainScreen
+activities/contactApp/AddContactScreen.java
+ activities.contactApp.AddContactScreen
+devices/IOS.java
+ devices.IOS
+cleanAppium/ContactAppTest.java
+ cleanAppium.ContactAppTest
+control/TextBox.java
+ control.TextBox
+activities/contactApp/MainScreen.java
+ activities.contactApp.MainScreen
+cleanAppium/ContactTest.java
+ cleanAppium.ContactTest
+control/ControlAppium.java
+ control.ControlAppium
+cleanAppium/CalculadoraTes.java
+ cleanAppium.CalculadoraTes
+devices/WindowsPhone.java
+ devices.WindowsPhone
+control/Button.java
+ control.Button
+activities/contactManager/MainScreen.java
+ activities.contactManager.MainScreen
+control/Label.java
+ control.Label
+devices/IDevices.java
+ devices.IDevices
+devices/Android.java
+ devices.Android
+devices/FactoryDevices.java
+ devices.FactoryDevices
+activities/alarma/CrearAlarmaScreen.java
+ activities.alarma.CrearAlarmaScreen
+activities/alarma/AlarmasScreen.java
+ activities.alarma.AlarmasScreen
+cleanAppium/AlarmaTest.java
+ cleanAppium.AlarmaTest
